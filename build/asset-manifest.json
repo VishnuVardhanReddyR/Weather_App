@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8f441d2d.chunk.css",
+    "main.js": "/static/js/main.bfa449b8.chunk.js",
+    "main.js.map": "/static/js/main.bfa449b8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.343b7aca.js",
+    "runtime-main.js.map": "/static/js/runtime-main.343b7aca.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.74363146.chunk.js": "/static/js/2.74363146.chunk.js",
+    "static/js/2.74363146.chunk.js.map": "/static/js/2.74363146.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e93af1b21356424da826725d107b33d7.js": "/precache-manifest.e93af1b21356424da826725d107b33d7.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.8f441d2d.chunk.css.map": "/static/css/main.8f441d2d.chunk.css.map",
+    "static/js/2.74363146.chunk.js.LICENSE": "/static/js/2.74363146.chunk.js.LICENSE",
+    "static/media/index.css": "/static/media/dark-background.3bd2d6dc.png",
+    "static/media/weather-icons.css": "/static/media/weathericons-regular-webfont.ecaf8b48.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.343b7aca.js",
+    "static/css/2.17e5ed98.chunk.css",
+    "static/js/2.74363146.chunk.js",
+    "static/css/main.8f441d2d.chunk.css",
+    "static/js/main.bfa449b8.chunk.js"
+  ]
+}
